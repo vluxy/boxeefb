@@ -1,6 +1,6 @@
 <apps>
 	<app>
-		<id>facebook</id>
+		<id>org.junda.facebook</id>
 		<name>Facebook</name>
 		<version>1.0</version>
         <description>Access Facebook Photos</description>
