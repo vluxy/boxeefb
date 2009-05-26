@@ -1,0 +1,19 @@
+<apps>
+	<app>
+		<id>org.junda.facebook</id>
+		<name>Facebook</name>
+		<version>1.0</version>
+        <description>Access Facebook Photos</description>
+        <thumb>http://boxeefb.googlecode.com/files/logo.png</thumb>
+		<repositoryid>org.junda</repositoryid>
+		<repository>http://boxeefb.googlecode.com/svn/repo</repository>
+		<media>pictures</media>
+		<copyright>Junda Liu</copyright>
+		<email>jundaliu+boxee@gmail.com</email>
+		<type>skin</type>
+        <startWindow>14000</startWindow>
+		<platform>all</platform>
+		<minversion>0.9.11</minversion>
+	</app>
+</apps>
+

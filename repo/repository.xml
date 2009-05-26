@@ -1,0 +1,8 @@
+<repository>
+	<id>org.junda</id>
+    <url>http://boxeefb.googlecode.com/svn/repo</url>
+	<name>Junda Liu</name>
+    <thumb>http://boxeefb.googlecode.com/files/logo200.png</thumb>
+    <description>Junda Boxee App repo</description>
+</repository>
+
