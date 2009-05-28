@@ -3,7 +3,7 @@
   # click Login to facebook, and your browser will show a facebook page like below. make sure to check Keep me logged in, otherwise you'll have to login again in 24h. http://boxeefb.googlecode.com/files/Picture%203s.png
   # if you don't see the Keep me logged in option, logout facebook first and run boxee again
   # Then you'll see a page http://boxeefb.googlecode.com/files/Picture%204s.png
-  # return to boxee, you'll see a dialog http://boxeefb.googlecode.com/files/Picture%205s.png
-  # click OK and your friends will show up http://boxeefb.googlecode.com/files/Picture%206s.png
+  # return to boxee, you'll see a dialog <br>
+  # click OK and your friends will show up <br> http://boxeefb.googlecode.com/files/Picture%206s.png
   # click one friend and go to his/her albums http://boxeefb.googlecode.com/files/Picture%207s.png
   # click album cover to view photos, click photo again to start slideshow, Enjoy!
