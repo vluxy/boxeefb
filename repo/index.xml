@@ -2,7 +2,7 @@
 	<app>
 		<id>org.junda.facebook</id>
 		<name>Facebook Photos</name>
-		<version>1.1</version>
+		<version>1.5</version>
         <description>Access Facebook Photos</description>
         <thumb>http://boxeefb.googlecode.com/files/logo.png</thumb>
 		<repositoryid>org.junda</repositoryid>
